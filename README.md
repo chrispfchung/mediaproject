@@ -9,6 +9,7 @@ We have sent API calls to themoviedb.org and retrieved data on nearly 6000 movie
 In addition, we scraped IMDB for academy award winning movies sorted by box office revenue. Unfortunatly, the code broke after page 2, we only retrieved 500 data points. These movies datapoints also have directors and actors.
 
 ### What you will find in our repo:
+Files starting with a 1 are data collection, 2 are preprocessing files
 Notebooks showing data collection via webscraping and API calls. Notebooks also show preprocessing of our data to create new features like weighted ROI and budgets.
 CSV files to show our collected data compiled for easier access and subsequent analysis
 
