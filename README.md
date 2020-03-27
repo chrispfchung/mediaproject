@@ -35,7 +35,7 @@ We also saw that Horror or Western movies had 500% ROI and 340% ROI while all 9 
 Then we zoomed into the top 500 academy award winning movies and looked at the top 5 Horror / Western genre directors and actors with the most awards. Our thought is that while you are starting out your movie studio, these are excellent people to include in your next horror/western movie.
 
 ### Top 5 Actors
-
+![top5actors](https://github.com/chrispfchung/mediaproject/blob/master/images/top5actors.png)
 
 
 Finally overall we looke at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
