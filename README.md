@@ -6,7 +6,7 @@
 
 ## CSVs included
 We have sent API calls to themoviedb.org and retrieved data on nearly 6000 movies. Data points include, movie title, revenue, budget, genre, and more.
-In addition, we scraped IMDB for academy award winning movies sorted by box office revenue. Unfortunatly, the code broke after page 2, we only retrieved 500 data points. These movies datapoints also have directors and actors.
+In addition, we scraped IMDB for academy award winning movies sorted by box office revenue. The code broke after page 2, we only retrieved 500 data points. These movies datapoints also have directors and actors.
 
 ### What you will find in our repo:
 Files starting with a 1 are data collection, 2 are preprocessing files
