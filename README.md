@@ -40,7 +40,7 @@ Then we zoomed into the top 500 academy award winning movies and looked at the t
 ![top5actors](https://github.com/chrispfchung/mediaproject/blob/master/images/top5actors.png)
 
 
-Finally overall we looke at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
+Finally overall we looked at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
 
 <p align="left"> 
 <img src="https://github.com/chrispfchung/mediaproject/blob/master/images/grossprofitbymonth.png" alt="jupyter" height=400px />
