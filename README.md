@@ -26,7 +26,9 @@ CSV files to show our collected data compiled for easier access and subsequent a
 When thinking about how much our budget should be, we looked into which genres have a low barrier entry point. 
 Horror and Western popped out to have significantly lower budgets. Surprisingly, these genres have also performered extremely well from ROI perspective. This is to say, not only is it cheap to produce these movies, they also, on average, produce higher profits.
 
-![genresvswightedROI](https://github.com/chrispfchung/mediaproject/blob/master/images/genresandweightedROI.png)
+<p align="left"> 
+<img src="https://github.com/chrispfchung/mediaproject/blob/master/images/genresandweightedROI.png" alt="jupyter" height=450px />
+ </p>
 
 ### Findings
 
@@ -40,7 +42,9 @@ Then we zoomed into the top 500 academy award winning movies and looked at the t
 
 Finally overall we looke at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
 
-![grossprofitbymonth](https://github.com/chrispfchung/mediaproject/blob/master/images/grossprofitbymonth.png)
+<p align="left"> 
+<img src="https://github.com/chrispfchung/mediaproject/blob/master/images/grossprofitbymonth.png" alt="jupyter" height=400px />
+ </p>
 
 
 
