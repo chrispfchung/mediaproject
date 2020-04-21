@@ -17,11 +17,11 @@ CSV files to show our collected data compiled for easier access and subsequent a
 ### Approach
 
 ### Find
--Estimate required budget.
--Genres to invest in.
--Which directors to hire?
--Which movie stars do we want?
--Best month to release film (highest gross revenue)
+- Estimate required budget.
+- Genres to invest in.
+- Which directors to hire?
+- Which movie stars do we want?
+- Best month to release film (highest gross revenue)
 
 
 When thinking about how much our budget should be, we looked into which genres have a low barrier entry point. 
