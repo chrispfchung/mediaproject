@@ -1,7 +1,7 @@
 
 
 
-# Practice Pitch to Microsoft to Advising What Content Type to Create in their Newly Created Studio
+# Practice Pitch to Microsoft to Advising What Content Type to Create in their New Studio
 
 
 ## CSVs included
