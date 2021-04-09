@@ -5,7 +5,7 @@
 
 
 ## CSVs included
-We have sent API calls to themoviedb.org and retrieved data on nearly 6000 movies. Data points include, movie title, revenue, budget, genre, and more.
+We sent API calls to themoviedb.org and retrieved data on nearly 6000 movies. Data points include, movie title, revenue, budget, genre, and more.
 In addition, we scraped IMDB for academy award winning movies sorted by box office revenue. We retrieved 500 data points. These movies datapoints also contain names of directors and actors and the number of their awards.
 
 ### What you will find in our repo:
@@ -25,7 +25,7 @@ CSV files to show our collected data compiled for easier access and subsequent a
 
 
 When thinking about how much our budget should be, we looked into which genres have a low barrier entry point. 
-Horror and Western popped out to have significantly lower budgets. Surprisingly, these genres have also performered extremely well from ROI perspective. This is to say, not only is it cheap to produce these movies, they also, on average, produce higher profits.
+Horror and Western popped out to have significantly lower budgets. Surprisingly, these genres have also performered extremely well from ROI perspective. Not only is it cheap to produce these movies, on average they also produce higher profits.
 
 <p align="left"> 
 <img src="https://github.com/chrispfchung/mediaproject/blob/master/images/genresandweightedROI.png" alt="jupyter" height=450px />
