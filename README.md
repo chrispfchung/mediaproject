@@ -33,15 +33,15 @@ Horror and Western popped out to have significantly lower budgets. Surprisingly,
 
 ### Findings
 
-Adventure's barrier to entry, or budget, was 22 million while Horror or Western movies had 7.4 and 12 million dollar budgets.
-We also saw that Horror or Western movies had 500% ROI and 340% ROI while all 9 other genres had ROIs less than 250%.
-Then we zoomed into the top 500 academy award winning movies and looked at the top 5 Horror / Western genre directors and actors with the most awards. Our thought is that while you are starting out your movie studio, these are excellent people to include in your next horror/western movie.
+Adventure's barrier to entry, or budget, was 22 million while Horror or Western movies had 7.4 and 12 million dollar budgets, respectively.
+We also saw that Horror and Western movies had 500% ROI and 340% ROI while all 9 other genres had ROIs less than 250%.
+We zoomed into the top 500 academy award winning movies and looked at the top 5 Horror / Western genre directors and actors with the most awards. Our thought is that while you are starting out your movie studio, these are excellent people to include in your next horror/western movie.
 
 ### Top 5 Actors
 ![top5actors](https://github.com/chrispfchung/mediaproject/blob/master/images/top5actors.png)
 
 
-Finally overall we looked at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
+Finally we looked at the overall movie release months over the last 100 years, May and June (early summer) and November and December (winter holiday) months had higher revenue compared to the other months. We recommend that you look into these months to release your movie.
 
 <p align="left"> 
 <img src="https://github.com/chrispfchung/mediaproject/blob/master/images/grossprofitbymonth.png" alt="jupyter" height=400px />
