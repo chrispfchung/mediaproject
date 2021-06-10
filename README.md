@@ -1,7 +1,7 @@
 
 
 
-# Pitching Microsoft What Content to Create in their New Studio
+# Pitching Microsoft What Content to Create in their Studio
 
 
 ## Data
