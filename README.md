@@ -36,15 +36,15 @@ Horror and Western had significantly lower budgets. Surprisingly, these genres a
 
 Adventure's budget was 22 million while Horror or Western movies had 7.4 and 12 million dollar budgets, respectively.
 We saw that Horror and Western movies had a 500% ROI and 340% ROI while all 9 other genres had ROIs less than 250%.
-Following this insight, we zoomed into the top 500 academy award winning movies and looked at the top 5 Horror and Western genre directors, and actors with the most awards. Our thought is that while Microsoft starts out in their studio, these are potential people to include in their next horror/western movie.
 
 ### Top 5 Actors
 ![top5actors](https://github.com/chrispfchung/mediaproject/blob/master/images/top5actors.png)
 
+Following this insight, we zoomed into the top 500 academy award winning movies and looked at the top 5 Horror and Western genre directors, and actors with the most awards. Our thought is that while Microsoft starts out in their studio, these are potential people to include in their next horror/western movie.
 
-Finally we looked at the overall movie release months over the last 100 years. Historicall, Early summer (May and June) and Winter Holiday Season (November and December) both had higher revenue compared to other times of the year. We recommend that they look into these months to release their movie.
 
 <p align="left"> 
 <img src="https://github.com/chrispfchung/mediaproject/blob/master/images/grossprofitbymonth.png" alt="jupyter" height=400px />
  </p>
 
+Finally we looked at the overall movie release months over the last 100 years. Historicall, Early summer (May and June) and Winter Holiday Season (November and December) both had higher revenue compared to other times of the year. We recommend that they look into these months to release their movie.
