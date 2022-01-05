@@ -25,12 +25,13 @@ Data collection and preprocessing files:
 - Best month to release film (highest gross revenue)
 
 
-When thinking about how much our budget should be, we looked into genres with a lower barrier entry point than other ones. 
-Horror and Western had significantly lower budgets. Surprisingly, these genres also performed extremely well from an ROI perspective. We found that on average not only was it cheaper to produce these movies, they also produced higher profits.
 
 <p align="left"> 
 <img src="https://github.com/chrispfchung/mediaproject/blob/master/images/genresandweightedROI.png" alt="jupyter" height=450px />
  </p>
+
+Since the studio is new, we looked into genres with a lower barrier entry point than others.
+Horror and Western had significantly lower budgets. Surprisingly, these genres also performed extremely well from an ROI perspective. We found that on average not only was it cheaper to produce these movies, they also produced higher profits.
 
 ### Findings
 
