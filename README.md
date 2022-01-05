@@ -1,7 +1,7 @@
 
 
 
-# Pitching Microsoft What Content to Create in their New Studio (Hypothetical)
+# Pitching Microsoft What Content to Create in their New Studio (Hypothetical Case)
 
 
 ## Data
